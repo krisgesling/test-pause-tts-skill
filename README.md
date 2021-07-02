@@ -2,7 +2,8 @@
 Test skill to highlight a possible challenge.
 
 ## About
-
+What happens when we pause TTS output and a Skill has asked to wait for that output to finish?
+What happens when we barge-in and stop TTS output?
 
 ## Examples
 * "What happens when i pause tts output"
